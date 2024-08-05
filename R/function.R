@@ -1,3 +1,3 @@
 sayHI <- function(){
-  print("hi")
+  print("hello")
   }

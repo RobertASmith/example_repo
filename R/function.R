@@ -1,3 +1,3 @@
-sayHI <- function(){
-  print("hello")
+sayHI <- function(name){
+  print(paste("hello", name))
   }
